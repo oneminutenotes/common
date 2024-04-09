@@ -5,4 +5,4 @@
 event is present, the workflow can be manually triggered via the GitHub API, the
 GitHub CLI, or the Actions browser interface.
 * `workflow_run` allows you to trigger execution of a secondary workflow after a
-prerequisite workflow has run to completion—whether it succeeded or f
+prerequisite workflow has run to completion—whether it succeeded or failed
